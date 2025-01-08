@@ -1,4 +1,4 @@
-# Hardware Development Path
+# Hardware Development Path - DRAFT
 
 As you iterate on your product you might call things a Minium Viable Product / MVP or a prototype or beta or even say "it works". The important thing is to understand the context of what you’re doing and/or what you’re trying to do. 
 
