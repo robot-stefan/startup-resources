@@ -22,6 +22,8 @@ Venture Well Lean Launch Pad:
 - [List of Programs](ProgramsList.md "Various programs such as accelerators, bootcamps, etc. ")
 - [Additional Books](AdditionalBooks.md "Additional book list for further reading")
 - [ATL Resources](AtlResources.md "ATL focused collection of events, coworking, programs, etc.")
+- [Market Research](MarketResearch.md "Notes & comments on Market Research Tools")
+- [Hardware Development](HardwareDevelopmentPath.md "Hardware Development Observations & Tips")
 
 [^accelerators]: National Science Foundation I-Corps & Boomtown/Comcast The Farm
 [^compteam]: The team participated in RoboCup Small Size, Intelligent Ground Vehicle Competition, BattleBots and on the outreach, front was involved in FIRST Robotics with both FRC and FTC.  
