@@ -1,4 +1,4 @@
-# Market Research
+# Market Research - DRAFT
 
 There are many aspects of investigating a market. From a customer-problem-solution standpoint the best is observing the customer, the problem, and how it’s being solved now. If you cannot observe the next best thing, you can do is customer interviews. This is only a part of the puzzle. You still need to understand is what does the financial implications of this both the top-level big picture and at the ground level of the end users and purchasers. 
 
