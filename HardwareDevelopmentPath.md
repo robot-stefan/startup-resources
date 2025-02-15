@@ -2,8 +2,26 @@
 
 As you iterate on your product you might call things a Minium Viable Product / MVP or a prototype or beta or even say "it works". The important thing is to understand the context of what you’re doing and/or what you’re trying to do. 
 
-### Minimum Viable Product / Prototype MVP
-At very early stages MVPs can be a hand sketch, a photoshop / gimp image, a graphic, a weird stop motion video, a small 3d print, etc. At this early stage you’re trying to get some insightful feedback on what your hypothesis is with a potential customer / user. Youd try to present this on the second call or late into the 1st. 
+### Minimum Viable Product / Prototype MVP / Minimum Viable Concept
+At very early stages MVPs can be a hand sketch, a photoshop / gimp image, a graphic, a weird stop motion video, a small 3d print, etc. At this early stage you’re trying to get some insightful feedback on what your hypothesis is with a potential customer / user. You'd try to present this on the second call or late into the 1st. 
+> Note "at very early stage" this is because the inputs that define what your MVP is will evolve as will sayings such as "it works".  
+
+```mermaid
+flowchart LR
+ subgraph G["Fullsystem Prototype #"]
+        n1["Subsystem Prototype #.1"]
+        n2["Subsystem Prototype #.2"]
+        n3["Subsystem Prototype #.3"]
+  end
+    A["Early MVP 1"] --> B["Early MVP 2"]
+    B --> C["Early MVP #"]
+    C --> G
+    G --> H["Minimum Viable Concept #"]
+    H --> I["Customer Test"]
+    I --> G
+
+```
+
 
 ### TRL & MRL
 This corresponds to Technical Readiness Level [^TRL] and Manufacturing Readiness Level[^MRL]. You will see this asked for in government pitches. If we look at both we can see a nice linear road map from duct tape wires and cardboard to a product someone is using. To be clear there is no linear road map. These are levels kind of like a video game you got to burn up some tokens to move forward, but unlike a video game there is no up down left right. They exist to understand where something roughly is, and you can use them as rough measuring stick even if your customer is not a government entity. 
@@ -83,10 +101,10 @@ graph LR;
     E & D --> F(A+B - Build / Test)
 ```
 
-You can also use leapfrogging with commercial off-the-shelf components. Not everything is 2-day, 7-day delivery, certain sensors can weeks. Uncovering this allows you to know if we think we are going to roughly need ABC on week 4 and it takes 2 weeks to get so order it at end of week 1. 
+You can also use leapfrogging with commercial off-the-shelf components. Not everything is 2-day, 7-day delivery, certain sensors can take weeks. Uncovering this allows you to know if we think we are going to roughly need ABC on week 4 and it takes 2 weeks to get so order it at end of week 1. 
 
 ### Tools
-Buy the nice ones you can afford. Those $600-$1000 Molex crimpers. Those are cheaper than the sub $100 ones. The 3d printer which costs $1500. It’s cheaper than the $500 DIY kit. The few $100 bench power supply is cheaper than the $50 amazon one. You can teach a high schooler to make good harnesses with those fancy Molex ones that work. You can also teach your sales, IT guy too, and industrial designer. That $1,500 3d printer, it has auto bed leveling and can print while you sleep without crashing, but that $500 one can't. The expensive power supply doesn't have a spike when you turn it on, is more accurate, and has remote control with the ability to run automated test cycles. 
+Buy the nice ones you can afford which improve your forward innovation speed and reduce your recurring costs. Where feasible bias towards failing in areas of your technology your actually trying to experiment and test. Those $600-$1000 Molex crimpers. Those are cheaper than the sub $100 ones. The 3d printer which costs $1500. It’s cheaper than the $500 DIY kit. The few $100's bench power supply is cheaper than the $50 amazon one. You can teach a high schooler to make good harnesses with those fancy Molex ones that work. You can also teach your sales, IT guy too, and industrial designer. That $1,500 3d printer, it has auto bed leveling and can print while you sleep without crashing, but that $500 one can't. The expensive power supply doesn't have a spike when you turn it on, is more accurate, and has remote control with the ability to run automated test cycles. 
 
 [^TRL]: [TRL Levels](https://en.wikipedia.org/wiki/Technology_readiness_level)
 [^MRL]: [MRL Levels](https://en.wikipedia.org/wiki/Manufacturing_readiness_level)
