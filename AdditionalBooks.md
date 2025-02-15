@@ -29,7 +29,7 @@ A vew into the path of Steve Martin's stand up career and some life observations
 A good intro into software from a pure begineers stand point anyone working on technology can benifit from this added understand even if it is only gaining highlevel insights to how development works. 
 #### Hardcore Programming for Mechanical Engineers - ISBN: 978-1718500785
 An engineering intro to python. This covers various testing methods unit, integration, mocking. Testing is important for moving fast and actully focusing on the challenges you need. Whiles this is software focused, systems and subsystems testing can present many similarities.  
-### Understanding Comics - ISBN: 978-0060976255
+#### Understanding Comics - ISBN: 978-0060976255
 A good guide to visual story telling.
-### General Motors Workshop Manuals 1960s - 1970s
+#### General Motors Workshop Manuals 1960s - 1970s
 Old automotive workshop manuals can give a good insight into how to flow work instructions and user manuals. Vehicles from the 1960s and 1970s didn't have much electronics and no computers allowing for an easier entry into this. Later cars started having more complex systems making this era a good fit for in intro into this type of communicating. 
