@@ -9,7 +9,7 @@ Notes on ways to save on parking & to avoid traffic by parking at a [MARTA stati
 - [StartUp Village](https://www.eventbrite.com/e/atlanta-startup-village-tickets-224756281087) (🚇 Buckhead)
   - Pitches from a variety of ATL startups with good networking from others inthe ecosystem. Most of what I have seen is software focused products at these. 
 - [StartUp Chowdown](https://www.eventbrite.com/e/startup-chowdown-tickets-288056664237) (🚇 Buckhead)
-- [StartUp Oasis](https://www.eventbrite.com/e/pitch-help-or-join-a-tech-startup-tickets-357085681887) (🚇 Buckhead)
+- [StartUp Oasis](https://www.eventbrite.com/e/pitch-help-or-join-a-tech-startup-tickets-357085681887) (🚇 Midtown or North Avenue)
 - [HardTechHub](https://lu.ma/calendar/cal-3qBD4x0itwy6b2h)
 - [ATL Hardware Meetup](https://lu.ma/atl-hardware-meetup)
 
