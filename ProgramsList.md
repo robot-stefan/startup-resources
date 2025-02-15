@@ -31,7 +31,10 @@ Also called Americas Seed Fund. Every US federal government agency has to operat
 A good proposal will have strong support letters in addition to the rest of the proposal package that the agency is looking for. The support letters can take the most time to source. I recommend people look at the NSF proposal process even if they are not a high-risk technology vertical that they would fund. The NSF proposal requires you to think and answer questions on your startup and product. Questions that if you are not able to answer you might need to reconsider how much you think you know and work on fleshing out those topics for your business.
 
 ### [CHALLENGE.GOV](https://www.challenge.gov/)
-A website that hosts US gov sponsored challenges. The largest ones typically aren’t profitable to compete on their own (you can spend more time and money working toward 1st place than the value of the 2n place award). Think DARPA Urban challenge. Challenges like these where the gov is essentially hosting a large field R&D environment can be enabling for deeptech as field testing in highly flexible sandbox environment can be challenge and cost prohibitive on its own. There are smaller challenges frequently posted too.  
+A website that hosts US gov sponsored challenges. The largest ones typically aren’t profitable to compete on their own (you can spend more time and money working toward 1st place than the value of the 2n place award). Think DARPA Urban challenge. Challenges like these where the gov is essentially hosting a large field R&D environment can be enabling for deeptech as field testing in highly flexible sandbox environment can be challenge and cost prohibitive on its own. There are smaller challenges frequently posted too.
+
+### [GENIUS NY](https://geniusny.com/)
+A program run by the state of New York. Part pitch competition and part accelerator. Aimed at attracting tech startups to the state. Some states and cities might have programs like this. They typically have some component of setting up employment in a specific area could be a city, region, or a census tract.
 
 ### [Lexus Design Awards](https://www.lexus.eu/discover-lexus/design/lexus-design-award-2023-winners-announced)
 Try to keep an eye open for these types of opportunities. I submitted for this in 2019 and out of a pool of over 3500+ global applicant, I ended up being in the top 50. I didn’t make it to the final round. The finalists received a $20k+ award, a weeklong free design boot camp in NYC and a spot in a Lexus showcase during Milan Fashion Week. 
@@ -39,7 +42,7 @@ Try to keep an eye open for these types of opportunities. I submitted for this i
 > 20k would of been nice for how lean we were running. We also could have used the design mentorship and exposure to contacts attending a globally significant event. 
  
  ### [Autodesk Technology Centers](https://www.autodesk.com/technology-centers)
-Autodesk isn't the only program like this. Larger companies will typically host centers or events to get early adopters to test and help drive product. In exchange you get access to their tools. In the case of Autodesk you also get access to the innovation studio / makerspaces that they operate. Verizon had a similar program around their 5G rollout around supporting companies developing products to leverage their upcoming network upgrades. These programs will also typically have a good network early adopter or high performance customers. 
+Autodesk isn't the only program like this. Larger companies will typically host centers or events to get early adopters to test and help drive product. In exchange you get access to their tools. In the case of Autodesk you also get access to the innovation studio / makerspaces that they operate. Verizon had a similar program around their 5G rollout around supporting companies developing products to leverage their upcoming network upgrades. These programs will also typically have a good network early adopter or high performance customers and don't necessiarly offer funding (paying customers can be a good source of funding). 
 
 ### [SPIE Startup Challenge](https://spie.org/conferences-and-exhibitions/photonics-west/program/startup-challenge)
 SPIE hosts a start up pitch competition during their photonics west trade show. Other trade shows / industries do something similar to an extent. In the case of SPIE there isn't any cash award or investment but essentially large gift cards to top vendors in that industry. You also end up presenting to good contacts in that industry potentially from the investment, sales channel, or other aspects. 
@@ -49,7 +52,7 @@ Unlike SBIRs this is constructed as an award competition. Award money is differe
 
 ### [Boomtown](https://btinnovation.com/) & [Techstars](https://www.techstars.com/) & [Y Combinator](https://ycombinator.com/) 
 These are venture back start up accelerators. You apply and if accepted; give up a portion of the company and participate in a multiweek bootcamp with a demo day at the end. These programs typically provide coworking space during and for some time after. They also typically have a network of alumni, mentors, investors and corporate partners. 
-> I went through boomtown The Farm which was hosted at Comcast in Atlanta. One group in my cohort was able to get a pilot with Comcast for their product. We toured and showed some comcast employees at their warehouses and plant. 
+> I went through boomtown The Farm which was hosted at Comcast in Atlanta. One group in my cohort was able to get a pilot with Comcast for their product. We toured and shadowed some Comcast employees at their warehouses and plant. 
 
 These are beneficial, but I would suggest looking at the NFS I-Corps program before giving up equity in your company (NSF I-Corps can be more money than some of the lower funded accelerator programs). 
 
