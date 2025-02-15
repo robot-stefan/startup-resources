@@ -1,9 +1,8 @@
-# Additional Books:
+# 📖 Additional Books 📖
 This book list covers a wide range from business to tech development. Each offers learnings and insights. I have provided some notes on several of them. 
 
 #### The Innovator's Delimma - ISBN: 978-0062060242
-Offers a few case studies on how large established corps failed to innovate. You can look at this to help stop opportunities and understand why & when established players wont be as much of a threat. 
-
+Offers a few case studies on how large established corps failed to innovate. You can look at this to help spot opportunities and understand why & when established players wont be as much of a threat. 
 #### The Innovators - ISBN: 978-1476708706
 Multiple case studies and investigation of the trajector of many technologies we now view as foundational. 
 #### Sell or Be Sold - ISBN: 978-1608322565
@@ -13,6 +12,7 @@ A look at developing with teams while this is software focused there are alot of
 #### Kill it with Fire - ISBN: 978-1718501188
 Managing legacy systems, observing good enough. 
 #### Measure what Matters - ISBN: 978-0525536222
+A deep dive in to Objectives and Key Results (OKRs) a goal / target setting and managment approach. 
 #### Zero to One - ISBN: 978-0804139298
 #### Startupland - ISBN: 978-1118980811
 In depth look at one startup journey that became successful. 
@@ -20,7 +20,7 @@ In depth look at one startup journey that became successful.
 #### Barbarians at the Gate - ISBN: 978-0061655555
 Offers an inside peek at the M&A world.
 #### Sunburts & Luminary - ISBN: 978-0986385933
-An account of a individual contributor on of the most popularized R&D moonshots in human history. 
+An account of a individual contributor on one of the most popularized R&D moonshots in human history. 
 #### X-15 Diary - ISBN: 978-0803294561
 Covers the developments leading up to the first flights and eventual handover to the goverment customer from an outsiders perspective. Alot of the starts, stops, and continual roadblocks are experienced in hardware development and this offers a relatively non technical peek into that cycle/dynamic. 
 #### Born Standing Up - ISBN: 978-1416553656
@@ -29,4 +29,7 @@ A vew into the path of Steve Martin's stand up career and some life observations
 A good intro into software from a pure begineers stand point anyone working on technology can benifit from this added understand even if it is only gaining highlevel insights to how development works. 
 #### Hardcore Programming for Mechanical Engineers - ISBN: 978-1718500785
 An engineering intro to python. This covers various testing methods unit, integration, mocking. Testing is important for moving fast and actully focusing on the challenges you need. Whiles this is software focused, systems and subsystems testing can present many similarities.  
-
+### Understanding Comics - ISBN: 978-0060976255
+A good guide to visual story telling.
+### General Motors Workshop Manuals 1960s - 1970s
+Old automotive workshop manuals can give a good insight into how to flow work instructions and user manuals. Vehicles from the 1960s and 1970s didn't have much electronics and no computers allowing for an easier entry into this. Later cars started having more complex systems making this era a good fit for in intro into this type of communicating. 
