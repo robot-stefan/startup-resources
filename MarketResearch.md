@@ -22,7 +22,12 @@ Some free resources I have used are sites such as [USAspending](https://www.usas
     - The department of transportation maintains a database of all bridges in the US. Their size, age, condition rating, general location, etc. What is the current market for bridges over some sqft threshold which need replacement in the next 5 to 10 years? 
     > These can help give you an understanding of the order of magnitude of your topic beyond your customer observations / interviews. 
 5. The US Census does more than just collect data on how many people live where. There is also data on incomes, demographic make-up, etc. 
-    > If your product is consumer oriented you could use this to roughly understand the total population of people ages 30 to 45 who have income between 75k to 100k in different regions. If your widget needs the population of your target audience to be greater than some fraction of that which exists it might be good to revisit assumptions. 
+    > If your product is consumer oriented you could use this to roughly understand the total population of people ages 30 to 45 who have income between 75k to 100k in different regions. If your widget needs the population of your target audience to be greater than some fraction of that which exists it might be good to revisit assumptions.
+6. Does a government agency have an open RFI (Request for Information), a prototype purchase, a solicitation in the question phase, or a bid open?
+  - RFIs are good opportunities to submit info on your product or service. These aren't bids, but they are a way to communicate to groups and they might lead to a future solicitation (in a different fiscal year).
+  - Prototype purchase opportunities are rare, but it does give you the ability to work with and deliver an early version of your product. They can sometimes lead to a contract later.
+  - Solicitations in the Q&A phase let you and everyone ask clarification questions on the scope. Questions and answers are published openly and typically can give you an insight into project scope. After this phase no one can ask questions.
+  - Solicitations in the bid phase allow you to submit a proposal for a project.
 
 ### TAM SAM SOM 
 I've seen people get super into acronyms. For certain pitches it’s a fast and efficient way to communicate some high-level order of magnitude stuff. However, get caught up in what it means for you and your widget first. 
@@ -38,12 +43,12 @@ There are two parts to this for hardware:
 Some people call this top-down vs bottom-up pricing and will really focus on top down. For hardware you should do both but use #2 to sanity check #1. 
 
 #### 1. What the market will pay
- There is A & B testing with a lot of software app demos and examples of this online. For hardware as you progress through calls with people over time, you’ll gather enough insights. You can start trying to sell or get people to prepurchase. Try one price if someone says no on the next call with a different contact try another price. You want to try to find an uncomfortable yes.
+ There is A & B testing with a lot of software app demos and examples of this online. For hardware as you progress through calls and on site visits with people over time, you’ll gather enough insights. You can start trying to sell or get people to prepurchase. Try one price if someone says no on the next call with a different contact try another price. You want to try to find an uncomfortable yes.
 
  > You will probably end up selling stuff below what the market will pay. Sometimes your customers will tell you this. Its fine your goal is to live to fight another day, be cash flow positive, or maybe if you are investment backed have something positive on the sales front to report and a better-informed route to being cash flow positive. 
 
  #### 2. Do you have enough margin 
- Early on you won’t have lots of technical info to get exact quotes for parts. If your product concept is a robot or drone you know at a high level it’s going to require some type of computer on it, some motors, some electronics etc. You can go on various vendors website like McMaster, mouser, Digi key, etc. and see what an upper and lower range for motor of X size might be. Use the upper range throw something like 20% on it to fudge shipping, do something similar with other major sub system components. Your goal is to try to wireframe up enough to have a good level of confidence. 
+ Early on you won’t have lots of technical info to get exact quotes for parts. If your product concept is a robot or drone you know at a high level it’s going to require some type of computer on it, some motors, some electronics etc. The point is you can uncover the big obvious constituent items. You can go on various vendors website like McMaster, mouser, Digi key, etc. and see what an upper and lower range for motor of X size might be. Use the upper range throw something like 20% on it to fudge shipping, do something similar with other major sub system components. Your goal is to try to wireframe up enough to have a good level of confidence. 
 > I don’t have any golden rule for how much profit margin you should have at the start of this analysis that’s really going to vary depending on what you’re doing (is your market 10 robots a year or 10,000 robots a year). However, if you have less than 30% margin or your margin is negative you really need to take a good look at assumptions and your thesis on what you’re trying to achieve. 
 
 The analysis should evolve over time the more you find out about the customer. With robots I always aim for mediocrity or uniform functional crappiness across all systems. If you do this, you’ll have a working platform that can evolve and grow.  Something is similarly true to this analysis too. 
